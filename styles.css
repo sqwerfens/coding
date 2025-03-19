@@ -1,0 +1,64 @@
+body {
+  background-image: url(background.jpg);
+  background-size: cover;
+  background-color: rgba(0, 0, 0, 0.772);
+}
+.judul {
+  padding-left: 500px;
+}
+.section1 {
+  display: flex;
+  list-style: none;
+  padding: 10px;
+  justify-content: space-between;
+  padding-top: 70px;
+  padding-left: 50px;
+}
+.section2 {
+  display: flex;
+  list-style: none;
+  padding: 10px;
+  justify-content: space-between;
+  padding-top: 20px;
+  padding-left: 50px;
+  color: rgb(242, 241, 246);
+}
+.section3 {
+  display: flex;
+  list-style: none;
+  padding: 10px;
+  justify-content: space-between;
+  padding-top: 20px;
+  padding-left: 50px;
+  color: rgb(253, 249, 248);
+}
+.navigasi {
+  display: flex;
+  justify-content: space-between;
+  max-width: 1200px;
+}
+.logo {
+  text-align: center;
+  padding-top: 10px;
+  padding-left: 40px;
+}
+.lis-menu {
+  display: flex;
+  list-style: none;
+  justify-content: space-between;
+  color: rgb(246, 242, 240);
+  text-decoration: none;
+}
+li {
+  margin: 15px;
+  margin-top: 40px;
+  text-decoration: none;
+  background-size: cover;
+}
+.kepala2 {
+  background-color: darkgreen;
+}
+a {
+    text-decoration: none;
+    color: beige;
+}
